@@ -6,7 +6,6 @@ import matplotlib.pyplot as plt
 from IPython.display import clear_output
 from transformer_model.model import transformer_model
 from data.process_dataset import process_data
-from data.create_dataset import filter_sentence
 
 
 strategy = hparams.tpu_strategy()
