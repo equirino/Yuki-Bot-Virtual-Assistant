@@ -1,6 +1,5 @@
 import os
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "4"
-import webbrowser
 import tensorflow as tf
 import transformer_model.hparams as hparams
 import webbrowser
@@ -13,14 +12,10 @@ import urllib.request
 import re
 import pafy
 import vlc
-import time
 import pyjokes
-import smtplib
-import ssl
-import pwinput
 import pyttsx3
 from bs4 import BeautifulSoup
-from datetime import date, datetime
+from datetime import datetime
 from PyDictionary import PyDictionary
 from nltk.corpus import wordnet
 from transformer_model.model import transformer_model
