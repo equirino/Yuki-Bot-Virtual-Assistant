@@ -2,7 +2,7 @@
 
 Chatbot-based Virtual Assistant developed in Python.
 
-Used Keras/Tensorflow to train the virtual assistant with a transformer-based machine learning model to handle general non-keyword based conversations. Data used to train the model came from a month of reddit comments in 2015.
+Used Keras/Tensorflow to train the virtual assistant with a transformer-based machine learning model to handle general non-keyword based conversations. Data used to train the model came from a month of reddit comments from 2015.
 
 Capabilities:
 - Can say different greetings based on the time of day.
