@@ -288,7 +288,7 @@ def main():
 
     print("done loading!")
     print("-----WELCOME TO YUKI BOT VIRTUAL AI SOFTWARE! STILL IN "
-          "DEVELOPMENT PHASE (REQUIRES INTERNET CONNECTION)-----")
+          "PROTOTYPE PHASE (REQUIRES INTERNET CONNECTION)-----")
 
     chatbot_status = True
 
