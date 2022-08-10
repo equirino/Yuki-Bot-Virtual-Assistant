@@ -20,6 +20,7 @@ Capabilities:
 - Every response is also spoken in audio.
 
 Future updates:
+- (MAIN PRIORITY): re-train the model with a better dataset for more coherent conversations
 - (MAIN PRIORITY): have inputs also be speech-based
 - Execute basic computer commands (e.g. shut down, restart, sleep)
 - Translate any languages
