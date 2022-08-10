@@ -25,8 +25,7 @@ from train import loss_function, accuracy, CustomLearningRate
 
 strategy = hparams.tpu_strategy()
 
-headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
-                         'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36'}
+headers = {'User-Agent': '--INSERT USER AGENT HERE--'}
 
 
 class RecipeScraper:
