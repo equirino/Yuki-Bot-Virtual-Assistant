@@ -92,7 +92,7 @@ def main():
     row_counter = 0
     paired_rows = 0
 
-    with open('C:/Users/equir/PycharmProjects/PersonalProjects/chatbot/data/reddit_data/RC_{}'.format(time_date),
+    with open('C:/FILEPATH/RC_{}'.format(time_date),
               buffering=1000) as file:
         for comment_sect in file:
             row_counter += 1
