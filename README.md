@@ -1,6 +1,6 @@
 # Yuki-Bot-Virtual-Assistant
 
-Chatbot based Virtual Assistant developed in Python.
+Chatbot-based Virtual Assistant developed in Python.
 
 Used Keras/Tensorflow to create a transformer-based machine learning model to handle general non-keyword based conversations. Data used to train the model came from a month of reddit comments in 2015.
 
