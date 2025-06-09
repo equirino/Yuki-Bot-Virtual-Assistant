@@ -25,5 +25,6 @@ Future updates:
 - Execute basic computer commands (e.g. shut down, restart, sleep)
 - Translate any languages
 - Send emails
+- improve weather feature to included predictive data
 - Open apps in the computer
 - Schedule events in a calendar
