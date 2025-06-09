@@ -115,7 +115,7 @@ def date_time():
 
 def weatherrequest(city):
     city = city.replace(" ", "+")
-    city_url = "https://www.google.com/search?q=weather+{}".format(city, city)
+    city_url = "https://www.google.com/search?q=weather+{}".format(city)
 
     scrape = requests.get(city_url, headers=headers)
     soup = BeautifulSoup(scrape.content, 'html.parser')
