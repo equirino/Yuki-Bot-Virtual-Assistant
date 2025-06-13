@@ -1,8 +1,8 @@
 # Yuki-Bot-Virtual-Assistant
 
-Text-input based Virtual Assistant developed in Python.
+Chatbot-based Virtual Assistant developed in Python.
 
-Used Keras/Tensorflow to create a transformer-based machine learning model to handle general non-keyword based conversations. Data used to train the model came from a month of reddit comments in 2015.
+Used Keras/Tensorflow to train the virtual assistant with a transformer-based machine learning model to handle general non-keyword based conversations. Data used to train the model came from a month of reddit comments from 2015.
 
 Capabilities:
 - Can say different greetings based on the time of day.
@@ -20,9 +20,11 @@ Capabilities:
 - Every response is also spoken in audio.
 
 Future updates:
+- (MAIN PRIORITY): re-train the model with a better dataset for more coherent conversations
 - (MAIN PRIORITY): have inputs also be speech-based
 - Execute basic computer commands (e.g. shut down, restart, sleep)
 - Translate any languages
 - Send emails
+- improve weather feature to included predictive data
 - Open apps in the computer
 - Schedule events in a calendar
