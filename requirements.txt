@@ -1,0 +1,16 @@
+pandas~=1.4.2
+tensorflow~=2.9.1
+wikipedia~=1.4.0
+requests~=2.28.0
+pafy~=0.5.5
+pyjokes~=0.6.0
+pwinput~=1.0.2
+pyttsx3~=2.90
+bs4~=0.0.1
+beautifulsoup4~=4.11.1
+pydictionary~=2.0.1
+nltk~=3.7
+wave~=0.0.2
+pyaudio~=0.2.12
+matplotlib~=3.5.2
+ipython~=8.4.0
